@@ -5,4 +5,5 @@ public class Lion extends Animal {
     public void giveFood() {
         System.out.println("사자에게 고기를 줍니다.");
     }
+
 }
